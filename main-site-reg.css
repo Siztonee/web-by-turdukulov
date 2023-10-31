@@ -24,7 +24,7 @@
 
 .main-bg {
   background-image: url(https://images.wallpaperscraft.ru/image/single/sirenevyj_fioletovyj_svetlyj_7259_1920x1080.jpg);
-  height: 700px;
+  height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
 }
